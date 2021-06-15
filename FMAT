@@ -1,0 +1,18 @@
+(normalized)
+
+BDR,Bidder#,BidderName
+...
+ITM,Item#,Desc,Quan,Unit
+...
+TAB,Bidder#,Item#,UnitPrice,Ext
+...
+
+====================================================
+(maybe easier)
+
+BDR,Bidder#,BidderName
+...
+TAB,Bidder#,Item#,Desc,Quan,Unit,UnitPrice,Ext
+...
+
+====================================================
